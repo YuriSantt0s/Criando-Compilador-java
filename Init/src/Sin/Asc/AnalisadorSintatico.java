@@ -1,4 +1,4 @@
-package Sin;
+package Sin.Asc;
 
 import java.util.*;
 
